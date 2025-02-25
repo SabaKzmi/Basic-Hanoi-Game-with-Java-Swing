@@ -10,6 +10,6 @@ This project was one of my first coding projects, and there's definitely room fo
 and submit pull requests.
 ## Game Interface
 <p align="center">
-  <img src="https://github.com/SabaKzmi/Basic-Hanoi-Game-with-Java-Swing/blob/69fb6576dce9cb420c340abdc76d3a9e91777f42/Interface" alt="Hanoi Interface" />
+  <img src="https://github.com/SabaKzmi/Basic-Hanoi-Game-with-Java-Swing/blob/69fb6576dce9cb420c340abdc76d3a9e91777f42/Interface" alt="Hanoi Interface" width=500 />
 </p>
 
