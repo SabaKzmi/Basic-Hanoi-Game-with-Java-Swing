@@ -1,6 +1,6 @@
 # Tower of Hanoi Game
 This repository contains a basic implementation of the Tower of Hanoi game in Java, with a graphical user interface created using Java Swing.
-The game features a simple design and supports up to 5 disks, making it a great starting point for beginners interested in Java programming and GUI design.
+The game features a simple design with 5 disks, making it a great starting point for beginners interested in Java programming and GUI design.
 ## How to Play
 The objective of the Tower of Hanoi game is to move all the disks from the leftmost peg to the rightmost peg, following these rules:
 - Only one disk can be moved at a time.
